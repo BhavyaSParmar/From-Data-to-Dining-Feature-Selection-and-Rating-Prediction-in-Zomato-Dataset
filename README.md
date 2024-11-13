@@ -1,0 +1,2 @@
+# From-Data-to-Dining-Feature-Selection-and-Rating-Prediction-in-Zomato-Dataset
+This project analyzes a Zomato dataset of restaurants to identify key features influencing ratings. Using data cleaning, statistical methods, and visualizations, it examines predictors, missing data, and variable distributions. The analysis refines 16 variables to 9 significant predictors for optimized rating prediction.
