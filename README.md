@@ -7,7 +7,7 @@ This project is an **exploratory data analysis (EDA) and predictive modeling exe
      - Columns with negligible missing data were filled or dropped.
      - Rating entries such as "NEW" or "-" were standardized to `NaN`.
    - Skewed numerical data, like **Cost (Rupees)** and **Number of Votes**, was transformed using log transformations to normalize distributions.
-   - Categorical variables, such as **Cuisines** and **Restaurant Types**, were grouped into generalized categories (e.g., grouping various dessert types into a single “Dessert” category) to improve analysis and reduce noise.
+   - Categorical variables, such as **Cuisines** and **Restaurant Types**, were grouped into generalized categories (e.g., grouping various dessert types into a single “Dessert” category) to improve analysis and reduce noise. 
 
 #### **2. Exploratory Data Analysis (EDA):**
    - **Numerical Analysis:**
